@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tabela 2</title>
+</head>
+
+<table border="1px">
+  <th colspan="2" rowspan="2"> </th>
+  <th>Demografia</th>
+  <tr>
+    <th colspan="" rowspan="2">Homens</th>
+    <th colspan="" rowspan="2">Meninas</th>
+    <th colspan="" >Professor</th>
+
+  <tr></tr>
+  <th rowspan="5">Turmas</th>
+   <th>Total</th>
+  <tr>
+    <th>A</th>
+    <th>20</th>
+    <th>5</th>
+    <th>Joaão Pedro</th>
+  </tr>
+
+  <tr><th>B</th>
+    <th>21</th>
+    <th>3</th>
+    <th>idem</th>
+  </tr>
+  
+   <tr>
+     <th>C</th>
+     <th>25</th>
+     <th>2</th>
+     <th>Maria Joaão</th>
+   </tr>
+   
+    <tr>
+        <th>D</th>
+        <th>20</th>
+        <th>4</th>
+        <th>idem</th>
+    </tr>
+    
+ 
+
+  <body>
+
+  </body>
+
+</html>
